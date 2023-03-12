@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchukurs
 - 👀 I’m interested in integrations, architecture and networking
-- 🌱 I’m currently learning mcpa mule
+- 🌱 I’m currently learning mcia mule
 - 📫 How to reach me: cukursmatiss@gmail.com
 
 <!---
